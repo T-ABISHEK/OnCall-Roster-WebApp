@@ -1,4 +1,4 @@
-# Simple-OnCall-Roster-Template-WebApp
+OnCall-Roster-WebApp
 On-Call Roster Template
 This project is a simple On-Call Roster Management web application built using Flask and MongoDB, allowing teams to manage their on-call schedules. Users can easily add, edit, or delete team members, specifying their roles, teams, and availability dates.
 
